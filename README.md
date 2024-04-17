@@ -4,15 +4,26 @@
 A Python implementation of artificial intelligence search algorithms to solve problems within the Berkeley Pac-Man environment. The Pac-Man Projects, developed at UC Berkeley, apply Artificial Intelligence concepts to the famous arcade game.
 
 
+## About
 
-__1.Search__
+> Under The Supervision of [Prof.Mahdi Javanmardi](https://scholar.google.co.jp/citations?user=6Za8HuYAAAAJ&hl=en)
 
-Search: Implemented Depth-first (DFS), breadth-first (BFS), uniform cost, A* search algorithms and Greedy Search. These algorithms are used to solve navigation and traveling salesman problems in Pacman.
+> Fall 2021
 
-__2.Multi Agent Search__
+## Projects
 
-Classic Pacman is modeled as both an adversarial and a stochastic search problem. Implement multiagent minimax and expectimax algorithms, as well as designing evaluation functions.
+
+__1. Search__
+
+Implemented Depth First Search (DFS), Breadth First Search (BFS), Uniform Cost Search, A* Search Algorithms.
+
+
+__2. Multi Agent Search__
+
+Implemented Multiagent, Minimax, Alpha-Beta pruning and Expectimax algorithms.
   
-__3.Reinforcement Learning__
+__3. Reinforcement Learning__
 
-Reinforcement Learning: Implement model-based and model-free reinforcement learning algorithms, applied to the AIMA textbook's Gridworld, Pacman, and a simulated crawling robot.
+Implement model-based and model-free reinforcement learning algorithms.
+
+Includes Value Iteration, Bridge Crossing Analysis, Policies, Q-Learning, Epsilon Greedy, Bridge Crossing Revisited, Q-Learning and Approximate Q-Learning
